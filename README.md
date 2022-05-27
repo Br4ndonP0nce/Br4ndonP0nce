@@ -1,4 +1,5 @@
 ### Welcome to my latest job portfolio! 👋
+## Here you will find several of my most relevant blockchain and non blockchain projects
 ![Twitter Follow](https://img.shields.io/twitter/follow/brandon_ponce1?style=social)
 ---
 ## Blockchain projects
