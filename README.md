@@ -1,12 +1,6 @@
 ### Welcome to my latest job portfolio! 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/brandon_ponce1?style=social)
 ---
-## Non Blockchain projects
-<ul>
-<li>
-<a href="https://www.thegratitudebear.com/about-us">The gratitude Bear<a/>
-</li>
-</ul>
 ## Blockchain projects
 <ul>
 <li><a href="https://www.thegratitudebear.com/about-us">Ignite Launchpad<a/></li>
@@ -32,6 +26,13 @@
 <li><a href="https://m-coin.io/">M-coin ERC20 main ecosystem token<a/></li>
  
 </ul>
+## Non Blockchain projects
+<ul>
+<li>
+<a href="https://www.thegratitudebear.com/about-us">The gratitude Bear<a/>
+</li>
+</ul>
+
 
 
 
