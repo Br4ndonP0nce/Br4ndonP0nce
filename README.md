@@ -3,7 +3,7 @@
 ---
 ## Non Blockchain projects
 <ul>
-<a href="https://www.thegratitudebear.com/about-us">The gratitude Bear<a/>
+<li><a href="https://www.thegratitudebear.com/about-us">The gratitude Bear<a/></li>
  
 ## Blockchain projects
 
