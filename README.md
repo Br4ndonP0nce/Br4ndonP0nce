@@ -6,7 +6,7 @@
 <li><a href="https://www.thegratitudebear.com/about-us">The gratitude Bear<a/>
 </li>
 </ul>
-## Blockchain projects
+# Blockchain projects
 <ul>
 <li><a href="https://www.thegratitudebear.com/about-us">Ignite Launchpad<a/></li>
  
