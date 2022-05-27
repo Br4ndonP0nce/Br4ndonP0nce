@@ -1,5 +1,6 @@
 ### Welcome to my latest job portfolio! 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/brandon_ponce1?style=social)
+---
 <a href="https://www.thegratitudebear.com/about-us">The gratitude bears<a/>
 
 
