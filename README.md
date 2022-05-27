@@ -11,7 +11,7 @@
 ---
 
 🧰 Toolbox
-<a href="https://tapasadhikary.com>
+<a> href="https://tapasadhikary.com>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/> </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="Solidity Logo" width="50" height="50"/>
  
