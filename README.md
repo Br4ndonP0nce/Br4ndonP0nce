@@ -11,9 +11,13 @@
 ---
 
 🧰 Toolbox
-<a href="https://tapasadhikary.com">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/> </a>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="Solidity Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Solidity Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Solidity Logo" width="50" height="50"/>
  
 
 ---
