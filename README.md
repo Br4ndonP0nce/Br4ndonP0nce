@@ -21,8 +21,6 @@
 <li><a href="www.pizzlybears.io">Pizzly Project NFTs on Solana<a/></li>
  
 <li><a href="https://migration.sheebainu.io/">Migration tools for ERC20 tokens<a/></li>
- 
-<li><a href="https://migration.sheebainu.io/">Landing site & minting site for erc721a tokens on ethereum mainnet<a/></li>
 
 <li><a href="https://m-coin.io/">M-coin ERC20 main ecosystem token<a/></li>
  
