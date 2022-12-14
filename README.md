@@ -4,7 +4,7 @@
 ---
 ## Blockchain projects
 <ul>
-<li><a href="https://www.thegratitudebear.com/about-us">Ignite Launchpad<a/></li>
+<li><a href="https://www.infilmandart.com/">InFilmAndArts a marketplace/investment model for growing artists in mexico<a/></li>
  
 <li><a href="nftvoting-frontend.vercel.app">Solana Whale DAO<a/></li>
  
@@ -12,12 +12,8 @@
  
 <li><a href="https://statsapp-theta.vercel.app/lucky-scratch">Scratch card game on Binance Smart Chain<a/></li>
  
-<li><a href="https://statsapp-theta.vercel.app/lucky-scratch">Scratch card game on Binance Smart Chain<a/></li>
- 
 <li><a href="https://www.breadz.io/">Breadz NFTs on Solana<a/></li>
- 
-<li><a href="www.pizzlybears.io">Pizzly Project NFTs on Solana<a/></li>
- 
+
 <li><a href="www.pizzlybears.io">Pizzly Project NFTs on Solana<a/></li>
  
 <li><a href="https://migration.sheebainu.io/">Migration tools for ERC20 tokens<a/></li>
