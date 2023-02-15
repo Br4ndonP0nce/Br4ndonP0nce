@@ -14,7 +14,9 @@
  
 <li><a href="https://www.breadz.io/">Breadz NFTs on Solana<a/></li>
 
-<li><a href="sheebamigration-dapp-o9t2zo872-sheeba-inu.vercel.app">Migration tools for ERC20 tokens<a/></li>
+<li><a href="sheebamigration-dapp-o9t2zo872-sheeba-inu.vercel.app">Migration tools for ERC20 tokens<a/></li>\
+ 
+<li><a href="pizzly-bears-rk2343e6e-pizzlys.vercel.app">Pizzly bear project<a/></li>
 
 <li><a href="https://m-coin.io/">M-coin ERC20 main ecosystem token<a/></li>
  
