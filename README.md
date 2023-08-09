@@ -1,4 +1,4 @@
-# Brandon Ponce - Full Stack & Blockchain Developer | CTO aat The Gratitude Bear/The Gratitude Bear Technologies | CEO at Decode Next Consultancy 
+# Brandon Ponce - Full Stack & Blockchain Developer | CTO at The Gratitude Bear/The Gratitude Bear Technologies | CEO at Decode Next Consultancy 
 
 Welcome to my project portfolio, showcasing a blend of my blockchain and full-stack development expertise.
 
