@@ -10,9 +10,6 @@ Welcome to my project portfolio, showcasing a blend of my blockchain and full-st
 
 - [InFilmAndArts](https://www.infilmandart.com/) - A marketplace/investment model for budding artists in Mexico.
 - [The Gratitude Bear](https://crypto.thegratitudebear.com/) -Web3 approach to the gratitude bear project
-- [Solana DAO](https://nftvoting-frontend.vercel.app) - Description here.
-- [BEP-20 Token Locker](https://token-locker-three.vercel.app) - Description here.
-- [Lucky Scratch](https://statsapp-theta.vercel.app/lucky-scratch) - Scratch card game on Binance Smart Chain.
 - [M-coin](https://m-coin.io/) - Main ecosystem token on ERC20.
 - [GoatShares](https://www.goatshares.io/) - an innovative NFT project that brings the captivating realm of sports card ownership to the blockchain
 
