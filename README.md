@@ -1,4 +1,4 @@
-# Brandon Ponce - Full Stack & Blockchain Developer | CTO at The Gratitude Bear/The Gratitude Bear Technologies | CEO at Decode Next Consultancy 
+# Brandon Ponce - Solutions and software architect | Tech founder at Truva Inc.  
 
 Welcome to my project portfolio, showcasing a blend of my blockchain and full-stack development expertise.
 
