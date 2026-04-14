@@ -4,21 +4,6 @@ Welcome to my project portfolio, showcasing a blend of my blockchain and full-st
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/brandon_ponce1?style=social)](https://twitter.com/brandon_ponce1)
 
-## 🔗 Featured Projects
-
-### Blockchain
-
-- [InFilmAndArts](https://www.infilmandart.com/) - A marketplace/investment model for budding artists in Mexico.
-- [The Gratitude Bear](https://crypto.thegratitudebear.com/) -Web3 approach to the gratitude bear project
-- [M-coin](https://m-coin.io/) - Main ecosystem token on ERC20.
-- [GoatShares](https://www.goatshares.io/) - an innovative NFT project that brings the captivating realm of sports card ownership to the blockchain
-
-
-### Non-Blockchain
-
-- [The Gratitude Bear](https://www.thegratitudebear.com/) - A conscious way of teaching our kids IQ EQ and MeQ through the practice of Gratitude and storytime.
-- [Lead Labs](https://www.lead-lab.digital/) 
-
 ## 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/> 
